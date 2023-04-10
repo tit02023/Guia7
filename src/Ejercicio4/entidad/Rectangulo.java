@@ -64,7 +64,7 @@ public class Rectangulo {
         
         for (int i = 0; i < altura; i++) {
             for (int j = 0; j < base; j++) {
-                System.out.print("*");
+                System.out.print(" * ");
                 
             }
             System.out.println();
